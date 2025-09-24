@@ -38,7 +38,8 @@ This project analyzes Walmart customer data to uncover patterns and segment cust
 
 Here’s a snapshot of the analysis and dashboard from the Jupyter Notebook:
 
-![Walmart Dashboard](images\Screenshot 2025-09-24 222105.png)
+<img width="1582" height="923" alt="dashboard2" src="https://github.com/user-attachments/assets/e653b475-693e-4eae-ad3d-0e848facf785" />
+
 
 
 ## 🚀 How to Run
